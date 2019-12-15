@@ -1,20 +1,20 @@
-class Person  
-  def 
-    
-  end 
+class Person
   def
-    
+
+  end
+  def
+
+  end
+  def
+
+  end
+  def
+
+  end
+  def
+
   end
   def 
-    
+
   end
-  def 
-    
-  end
-  def 
-    
-  end
-  def 
-    
-  end
-end 
+end
