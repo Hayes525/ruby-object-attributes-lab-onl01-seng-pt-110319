@@ -8,11 +8,11 @@ class Person
   def
 
   end
-  def
-
+  def intialize(job)
+    @job = job
   end
-  def
-
+  def job
+    @job
   end
   def
 
