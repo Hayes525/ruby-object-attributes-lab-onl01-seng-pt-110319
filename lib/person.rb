@@ -5,8 +5,8 @@ class Person
   def name
     @name
   end
-  def
-
+  def name=(new_name)
+    @name = new_name
   end
   def intialize(job)
     @job = job
